@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Game saves (keep your personal progress off GitHub)
+saves/progress.json
+
+# IDE/Venv
+.venv/
+.vscode/
+.idea/
